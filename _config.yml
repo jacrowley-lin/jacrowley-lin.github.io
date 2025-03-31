@@ -12,6 +12,7 @@ city: Davis
 state: CA
 zip_code: 95616
 country: United States of America
+phone: email for information
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

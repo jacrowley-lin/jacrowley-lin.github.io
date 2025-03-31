@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is JC'
+landing-title: 'Jordan (JC) Crowley'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Welcome to the beginning of a very prosperous journey for us all.
+I haven't been everywhere, but it's on my list. 

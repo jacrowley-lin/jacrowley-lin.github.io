@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Research
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
@@ -12,33 +12,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>My Research</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Research Summary</h2>
+<p>I am a phonetician by trade, but believe it is important to remain well-rounded. My primary interests lie within the realm of phonetics and its derivatives. Most of my work revolves around something of this nature, while simultaneously utilizing computational and statistical models, or perhaps underscoring specific features of speech with respect to intrinsic demographic characteristics. Below are a few of my current and soon-to-be-started projects. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Perception and Production of Chinese Dialects</h3>
+		<p>In this study, I am trying to find out if there is a connection between dialect prevalence and perceived difficulty of reproduction. Additionally, I would like to find out if this difficulty is a result of the speech signal itself or some sort of external factors. I am having non-Chinese speaking individuals listen to scripts in various Chinese dialects, and having them attempt to reproduce the words as accurately as possible while also gauging which ones felt hardest for them. </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Simulated Hearing Loss</h3>
+		<p>I am attempting to gauge cochlear efficacy of different frequencies to determine if specific frequencies are more important to accurate perception of vowels. The speech is modulated intentionally in order to assess the effects that this has on vowel space. The hope is that this may also shed light on the auditory compensation mechanism that listeners use to maintain vowel discrimination despite hearing loss. </p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Vowel Reproduction Ambiguity</h3>
+		<p>Is there a concrete connection between hearing a vowel and the subsequent ability to reproduce it? How much variation from "prototypicality" is required to cause a shift in categorical perception? </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Simulation of Perceptual Narrowing</h3>
+		<p>I believe that the length of time that it takes for mental vowel representations to be solidified in an infant's brain can be thought of as a direct function of the vowel inventory size. Finding a reasonable model to simulate this is challenging. </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Vowel Turbulence</h3>
+		<p>I would like to determine what metrics are most valuable in studying constriction in vowel spaces. Metrics like the harmonics to noise (HNR) ratio could assess variations in turbulence due to tongue positioning, and might be able to link to speech-related pathologies. </p>
 	</div>
 </div>
 

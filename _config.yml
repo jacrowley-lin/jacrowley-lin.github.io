@@ -41,16 +41,14 @@ footer:
 social:
   - title: instagram
     url: https://www.instagram.com/toowamba/
-  - title: UCD Linguistics
-    url: https://linguistics.ucdavis.edu/
-  - title: orcid
-    url: https://orcid.org/0000-0002-6704-9795
   - title: linkedin
     url: https://www.linkedin.com/in/jordan-crowley-006b55135/
   - title: github
     url: http://github.com/jacrowley-lin
   - title: researchgate
     url: https://www.researchgate.net/profile/Jordan_Crowley
+  - title: ucdavis
+    url: https://linguistics.ucdavis.edu/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -60,7 +58,7 @@ address:
 
 
 # Credits content
-credits: Github theme created by 'Freelancer' at <a href="http://startbootstrap.com">Bootstrap</a>.'
+credits: Github theme created by 'Freelancer' at <a href="http://startbootstrap.com">Bootstrap</a>.
 
 # Build settings
 markdown: kramdown

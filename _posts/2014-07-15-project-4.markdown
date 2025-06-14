@@ -2,7 +2,7 @@
 layout: default
 title: Perceptual Narrowing Simulations
 modal-id: 4
-img: netogo.png
+img: netlogo.png
 alt: image-alt
-description: This project is still in its "infancy." I am very interested in not just how infants learn their native set of vowels, but the rate that this process materializes. I am creating simulations to assess the rate that perceptual narrowing occurs for infants whose native language varies from 3 vowels up to 12. 
+description: This project is still in its "infancy." I am very interested in not just how infants learn their native set of vowels, but the rate that this process materializes. I am creating simulations to assess the rate that perceptual narrowing occurs for infants whose native language varies from 3 vowels up to 12. I believe smaller inventories are much faster, while large vowel inventories take much longer to solidify. 
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Naïve Perception of Chinese Dialects
 modal-id: 1
 img: chinese-characters.png
 alt: image-alt

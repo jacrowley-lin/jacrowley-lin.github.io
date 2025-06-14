@@ -1,11 +1,8 @@
 ---
 layout: default
+title: Perceptual Narrowing Simulations
 modal-id: 4
-date: 2014-07-15
-img: game.png
+img: netogo.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: This project is still in its "infancy." I am very interested in not just how infants learn their native set of vowels, but the rate that this process materializes. I am creating simulations to assess the rate that perceptual narrowing occurs for infants whose native language varies from 3 vowels up to 12. 
 ---

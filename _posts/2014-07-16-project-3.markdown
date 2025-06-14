@@ -1,11 +1,8 @@
 ---
 layout: default
+title: Vowel Space Typology
 modal-id: 3
-date: 2014-07-16
-img: circus.png
+img: vowel_space.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The most prominent theory on how vowel spaces are shaped relies on dispersion effects to maximize perceptual contrast between sounds. This was laid out in 1972 by Liljencrants & Lindblom, but a thorough, real-world examination of the typological facts has never been completed. I am trying to gauge how accurate mathematical models are that typically rely on dispersion principles, when compared against real data from a diverse set of languages around the world. 
 ---

@@ -4,6 +4,5 @@ title: Naïve Perception of Chinese Dialects
 modal-id: 1
 img: chinese-characters.png
 alt: image-alt
-project-date: April 2025
 description: I am currently writing my preliminary paper, which focuses on how non-speakers of Chinese interpret the difficulty of Chinese dialects. Specifically, I am interested in determing if there are intrinsic acoustic features that are indicative of naïve difficulty, or if participant's perceptions are shaped by some sort of external, perhaps sociolinguistic factors. 
 ---

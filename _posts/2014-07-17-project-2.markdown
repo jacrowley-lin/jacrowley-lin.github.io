@@ -1,11 +1,8 @@
 ---
 layout: default
+title: Hearing Loss Perception
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+img: hearing_loss.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: I will soon be starting a project assessing perception of speech from the perspective of frequency-specific hearing loss. I want to know how various versions of hearing loss affect people's perceptions of vowels, which largely depend on specific combinations of formant frequencies. 
 ---

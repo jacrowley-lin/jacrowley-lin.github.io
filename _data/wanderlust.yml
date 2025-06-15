@@ -1,5 +1,16 @@
-- title: Thailand
-  layout: default
-  modal-id: 1
-  img: chinese-characters.png
-  description: This is just a test. I want to see if the code works.
+# _data/wanderlust.yml
+- modal-id: 1        # must be unique site-wide!
+  title: Thailand
+  img: thailand1.png
+  alt: People riding scooters inside the old city
+  trip-date: Jan 2024
+  description: >
+    A month-long phonetics field class, plus a lot of khao soi hunting.
+
+- modal-id: 2
+  title: Kyoto
+  img: thailand2.png
+  alt: Torii gates at Fushimi-Inari shrine
+  trip-date: Aug 2023
+  description: >
+    Hiked all 233 meters in 38 °C – worth it.

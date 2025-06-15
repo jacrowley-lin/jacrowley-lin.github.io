@@ -15,7 +15,7 @@ bing_verify:
 
 
 collections:
-  travel:
+  wanderlust:
     output: true
 
 

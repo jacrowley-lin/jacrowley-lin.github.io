@@ -1,5 +1,5 @@
 - title: Thailand
+  layout: default
   modal-id: 1
   img: thailand1.png
-  alt: image-alt
   description: This is just a test. I want to see if the code works.

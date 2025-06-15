@@ -1,7 +1,7 @@
 # _data/wanderlust.yml
 - modal-id: w1        # must be unique site-wide!
   title: Thailand
-  img: thailand1.jpeg
+  img: thailand1.png
   alt: People riding scooters inside the old city
   trip-date: Jan 2024
   description: >
@@ -9,7 +9,7 @@
 
 - modal-id: w2
   title: Kyoto
-  img: thailand2.jpeg
+  img: thailand2.png
   alt: Torii gates at Fushimi-Inari shrine
   trip-date: Aug 2023
   description: >

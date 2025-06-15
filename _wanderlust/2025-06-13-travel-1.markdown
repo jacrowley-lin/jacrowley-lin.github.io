@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Thailand
 modal-id: 1
 img: chinese-characters.png

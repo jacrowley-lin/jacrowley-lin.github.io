@@ -1,7 +1,7 @@
 # _data/wanderlust.yml
 - modal-id: w1        # must be unique site-wide!
   title: Thailand
-  img: thailand1.jpg
+  img: thailand1.jpeg
   alt: People riding scooters inside the old city
   trip-date: Jan 2024
   description: >

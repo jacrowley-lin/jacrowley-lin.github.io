@@ -65,5 +65,5 @@ defaults:
 
 collections:
   wanderlust:
-    output: false
+    output: true
 

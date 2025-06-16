@@ -62,3 +62,8 @@ defaults:
       type: "posts"
     values:
       permalink: ""
+
+collections:
+  wanderlust:
+    output: true
+

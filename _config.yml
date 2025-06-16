@@ -14,11 +14,6 @@ google_verify:
 bing_verify:
 
 
-collections:
-  wanderlust:
-    output: true
-
-
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 0097ff #d3d3d3

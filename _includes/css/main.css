@@ -482,3 +482,8 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+
+#wanderlust .portfolio-item img {
+  border: 5px solid red !important;
+}

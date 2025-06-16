@@ -23,9 +23,6 @@
       {% endfor %}
     </div><!-- portfolio grid -->
 
-    
-    <pre>{{ site.wanderlust | jsonify }}</pre>
-
     <!-- portfolio modals -->
     {% for item in site.wanderlust %}
       <div id="portfolioModal-{{ item.modal-id }}"
